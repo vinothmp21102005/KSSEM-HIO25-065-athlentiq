@@ -5,3 +5,4 @@
 
 ## BRIEF INTRO:
 **Athlentiq** is an android application developed with Kotlin that leverages the capabilities of MediaPipe Pose Landmark Detection. It accurately counts repetitions, enhancing your workout experience and also its an all-in-one AI fitness companion that turns your cam into a personal trainer: it watches you work out, counts your reps in real time using pose estimation, and tracks your progress over time — no wearables, no manual logging, just you and your browser. 
+![Uploading WhatsApp Image 2025-11-07 at 14_imgupscaler.ai_Enhancer_2K.png…]()
