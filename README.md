@@ -35,7 +35,7 @@ Athletes can upload performance data and videos, complete standardized screening
 - *Repetition Counting:* The AI model accurately counts repetitions for each exercise, helping users track their progress
 - *Real-Time Feedback:* The app uses MediaPipe Pose Landmark Detection to analyze the user's exercise form in real-time. Currently it checks the confidence level of yoga and informs the user about the confidence percentage on it.
 - *Exercise Plan:* Users can create customized exercise plans, specifying the number of repetitions for each exercise. Plans can be based on specific exercises, allowing for a personalized workout routine.
-- *Room Database:* Athlentiq utilizes the Room database to store and manage exercise plans and workout results.
+- *Room Database:* RepDetect utilizes the Room database to store and manage exercise plans and workout results.
 - *Voice Notifications:* Receive voice notifications at the start and completion of exercises for a seamless workout experience.
 - *Exercise History:* The app maintains a detailed exercise history, providing users with insights into their performance over time. Users can view weekly and daily summaries, helping them stay motivated and on track.
 - *Camera Flipping:* Easily switch between front and back cameras for varied workout perspectives.
@@ -182,6 +182,21 @@ The detected landmark data plays a crucial role in training machine learning mod
 
 
 ## Screenshots
+<img width="145" height="304" alt="Screenshot 2025-11-08 090440" src="https://github.com/user-attachments/assets/c6fe238c-cb0b-4e91-823d-a93bf62ea499" />
+<img width="147" height="302" alt="Screenshot 2025-11-08 090524" src="https://github.com/user-attachments/assets/f5c8012c-8e52-4a30-8dbf-ff46d6b6bdd0" />
+<img width="140" height="448" alt="Screenshot 2025-11-08 090552" src="https://github.com/user-attachments/assets/63782b03-b3a1-43cf-aa89-9f87747b5fef" />
+<img width="149" height="305" alt="Screenshot 2025-11-08 090637" src="https://github.com/user-attachments/assets/c144eb75-6ae2-4dae-812f-a801a1567ba6" />
+<img width="144" height="308" alt="Screenshot 2025-11-08 090706" src="https://github.com/user-attachments/assets/3fa427a5-3a46-4dec-b0fc-8902eb905169" />
+<img width="146" height="592" alt="Screenshot 2025-11-08 090327" src="https://github.com/user-attachments/assets/b84348fe-ba7b-413f-a2c3-7e89368ba612" />
+<img width="152" height="544" alt="Screenshot 2025-11-08 090813" src="https://github.com/user-attachments/assets/133cd75e-0c43-480f-a239-e8ad7f7219fb" />
+<img width="150" height="420" alt="Screenshot 2025-11-08 090839" src="https://github.com/user-attachments/assets/17a586e1-a20e-409a-9da8-39e410e4b8a7" />
+<img width="167" height="346" alt="Screenshot 2025-11-08 090916" src="https://github.com/user-attachments/assets/6debe6c2-7dac-45f3-af47-9db811246174" />
+<img width="168" height="445" alt="Screenshot 2025-11-08 091148" src="https://github.com/user-attachments/assets/6c029cf6-4e4d-40e0-a4f2-1ebece4569a8" />
+
+
+
+
+
 
 
 ## Demo Video
