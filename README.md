@@ -35,7 +35,7 @@ Athletes can upload performance data and videos, complete standardized screening
 - *Repetition Counting:* The AI model accurately counts repetitions for each exercise, helping users track their progress
 - *Real-Time Feedback:* The app uses MediaPipe Pose Landmark Detection to analyze the user's exercise form in real-time. Currently it checks the confidence level of yoga and informs the user about the confidence percentage on it.
 - *Exercise Plan:* Users can create customized exercise plans, specifying the number of repetitions for each exercise. Plans can be based on specific exercises, allowing for a personalized workout routine.
-- *Room Database:* RepDetect utilizes the Room database to store and manage exercise plans and workout results.
+- *Room Database:* Athlentiq utilizes the Room database to store and manage exercise plans and workout results.
 - *Voice Notifications:* Receive voice notifications at the start and completion of exercises for a seamless workout experience.
 - *Exercise History:* The app maintains a detailed exercise history, providing users with insights into their performance over time. Users can view weekly and daily summaries, helping them stay motivated and on track.
 - *Camera Flipping:* Easily switch between front and back cameras for varied workout perspectives.
