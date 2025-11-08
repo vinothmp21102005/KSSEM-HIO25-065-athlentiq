@@ -201,8 +201,8 @@ The detected landmark data plays a crucial role in training machine learning mod
 
 ## Demo Video
 
-
-
+[https://youtube.com/watch/OwKl78G-yL0
+](https://youtu.be/OwKl78G-yL0?si=RhrvzvsuFNJOo-7M)
 ## Libraries
 
 #### AndroidX Libraries:
