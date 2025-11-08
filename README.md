@@ -1,4 +1,4 @@
-# KSSEM-HIO25-065-athlentiq
+ KSSEM-HIO25-065-athlentiq
 
 # Athlentiq - Where Talent Meets Opportunity
 <img width="1862" height="1914" alt="WhatsApp Image 2025-11-07 at 14_imgupscaler ai_Enhancer_2K" src="https://github.com/user-attachments/assets/897541b5-ced0-4e19-8b7d-43c716081d00" />
@@ -272,8 +272,11 @@ The detected landmark data plays a crucial role in training machine learning mod
 
 ## Contributors
 [Sanjit P] (https://github.com/sanjitp-23)
+
 [Vinoth M P] (https://github.com/vinothmp21102005)
+
 [Karthick Raja K] (https://github.com/Karthickraja23006120)
+
 [Srivatsan V] (https://github.com/Srivatsan0405)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
